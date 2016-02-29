@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./philosophiamora00vongoog_0719.png"; bbox 0 0 3671 4906; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1076 303 1828 441">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1076 303 1923 441">
+     <span class='ocr_line' id='line_1_1' title="bbox 1076 303 1828 441; baseline -0.002 -32"><span class='ocrx_word' id='word_1_1' title='bbox 1076 332 1115 409; x_wconf 87' lang='grc'><em>.’</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1166 314 1292 406; x_wconf 83' lang='lat' dir='ltr'><em>De</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1351 303 1767 441; x_wconf 61' lang='lat' dir='ltr'><em>amitam</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1787 372 1791 376; x_wconf 94' lang='lat'>-</span> <span class='ocrx_word' id='word_1_5' title='bbox 1815 391 1828 417; x_wconf 71' lang='lat'><em>.,</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

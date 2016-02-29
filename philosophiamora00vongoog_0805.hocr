@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./philosophiamora00vongoog_0805.png"; bbox 0 0 3671 4906; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 308 337 2781 500">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 308 335 2781 500">
+     <span class='ocr_line' id='line_1_1' title="bbox 308 337 2781 500; baseline 0.011 -66"><span class='ocrx_word' id='word_1_1' title='bbox 308 337 314 348; x_wconf 80' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 451 365 597 459; x_wconf 84' lang='lat' dir='ltr'><em>De</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 661 368 746 456; x_wconf 88' lang='lat' dir='ltr'><em>V</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 733 341 1145 471; x_wconf 59' lang='lat' dir='ltr'><em>eracitath</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1184 345 1772 461; x_wconf 75' lang='lat' dir='ltr'><em>Tact&#39;turnitate</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1787 362 1915 466; x_wconf 60' lang='grc' dir='ltr'><em>’ρξ’</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1952 365 2447 500; x_wconf 62' lang='grc' dir='ltr'><em>Ηνόαῃίιαῑε.</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 2586 377 2781 491; x_wconf 72' lang='lat' dir='ltr'><em>765v</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

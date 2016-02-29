@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./philosophiamora00vongoog_0156.png"; bbox 0 0 3671 4906; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 784 398 1110 534">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 784 398 1110 534">
+     <span class='ocr_line' id='line_1_1' title="bbox 784 398 1110 534; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 784 453 786 456; x_wconf 63' lang='grc'><em>’</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 870 398 1110 534; x_wconf 66' lang='grc' dir='ltr'>-ἰὶ·ἒι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1757 391 2019 498">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1616 391 2019 498">
+     <span class='ocr_line' id='line_1_2' title="bbox 1757 391 2019 498; baseline -0.005 -0.7"><span class='ocrx_word' id='word_1_3' title='bbox 1757 482 1759 484; x_wconf 87' lang='grc'>.</span> <span class='ocrx_word' id='word_1_4' title='bbox 1803 391 2019 498; x_wconf 73' lang='lat' dir='ltr'>Pars</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1976 365 2078 495">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1976 365 2078 495">
+     <span class='ocr_line' id='line_1_3' title="bbox 1976 365 2056 388; baseline 0.013 -12"><span class='ocrx_word' id='word_1_5' title='bbox 1976 365 2056 388; x_wconf 42' lang='lat'>031*</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1992 399 2028 413; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 1992 399 2028 413; x_wconf 63' lang='lat'>-1</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 2066 433 2078 446; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 2066 433 2078 446; x_wconf 67' lang='lat' dir='ltr'>n</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 2041 467 2048 476; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 2041 467 2048 476; x_wconf 78' lang='grc' dir='ltr'>ι</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 2017 485 2022 495; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 2017 485 2022 495; x_wconf 76' lang='grc' dir='ltr'><strong><em>ι</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 2079 361 2915 514">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 2079 361 3027 522">
+     <span class='ocr_line' id='line_1_8' title="bbox 2079 361 2915 514; baseline -0.025 -14"><span class='ocrx_word' id='word_1_10' title='bbox 2079 362 2437 514; x_wconf 37' lang='lat' dir='ltr'>steca}</span> <span class='ocrx_word' id='word_1_11' title='bbox 2469 373 2579 484; x_wconf 66' lang='lat'>115</span> <span class='ocrx_word' id='word_1_12' title='bbox 2620 412 2629 422; x_wconf 79' lang='grc'>·</span> <span class='ocrx_word' id='word_1_13' title='bbox 2794 361 2915 446; x_wconf 47' lang='lat'>‘³³3¹</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./philosophiamora00vongoog_0711.png"; bbox 0 0 3671 4906; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 945 361 2762 514">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 945 361 2762 514">
+     <span class='ocr_line' id='line_1_1' title="bbox 945 361 2762 514; baseline 0.014 -48"><span class='ocrx_word' id='word_1_1' title='bbox 945 361 985 466; x_wconf 67' lang='lat' dir='ltr'>J</span> <span class='ocrx_word' id='word_1_2' title='bbox 1044 370 1095 458; x_wconf 52' lang='lat'><strong><em>).</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1124 372 1282 476; x_wconf 59' lang='lat' dir='ltr'><strong><em>De*</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1306 372 1730 478; x_wconf 55' lang='lat' dir='ltr'><strong><em>&#39;C&#39;omi&#39;t&#39;atm</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1832 383 1839 386; x_wconf 63' lang='grc'><em>’</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 2587 383 2762 514; x_wconf 65' lang='grc' dir='ltr'><strong><em>671Δ</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2488 4185 2926 4243">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2488 4185 2926 4243">
+     <span class='ocr_line' id='line_1_2' title="bbox 2488 4185 2926 4243; baseline 0.002 -23"><span class='ocrx_word' id='word_1_7' title='bbox 2488 4185 2727 4221; x_wconf 73' lang='lat' dir='ltr'><strong>vutu·</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 2742 4185 2926 4243; x_wconf 56' lang='lat' dir='ltr'><em>tune.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

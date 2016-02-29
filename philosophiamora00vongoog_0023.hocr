@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./philosophiamora00vongoog_0023.png"; bbox 0 0 3671 4906; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1182 339 1883 482">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1182 339 1883 482">
+     <span class='ocr_line' id='line_1_1' title="bbox 1182 339 1883 482; baseline 0.014 -9"><span class='ocrx_word' id='word_1_1' title='bbox 1182 375 1733 479; x_wconf 55' lang='lat' dir='ltr'>mmm-1</span> <span class='ocrx_word' id='word_1_2' title='bbox 1745 339 1883 482; x_wconf 52' lang='lat' dir='ltr'>Q}</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 167 3873 2736 4243">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 167 3873 2736 4243">
+     <span class='ocr_line' id='line_1_2' title="bbox 171 3873 2736 3985; baseline 0 -26"><span class='ocrx_word' id='word_1_3' title='bbox 171 3873 554 3971; x_wconf 46' lang='lat' dir='ltr'>mma·</span> <span class='ocrx_word' id='word_1_4' title='bbox 612 3873 1072 3960; x_wconf 73' lang='lat' dir='ltr'>onfflfflus</span> <span class='ocrx_word' id='word_1_5' title='bbox 1131 3884 1458 3985; x_wconf 72' lang='lat' dir='ltr'>tamen</span> <span class='ocrx_word' id='word_1_6' title='bbox 1511 3873 2157 3959; x_wconf 73' lang='lat' dir='ltr'>mohmnmbus</span> <span class='ocrx_word' id='word_1_7' title='bbox 2237 3873 2403 3959; x_wconf 73' lang='lat' dir='ltr'><strong>suls</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 2466 3873 2736 3961; x_wconf 71' lang='lat' dir='ltr'><strong>stulti·</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 167 3980 2734 4126; baseline 0.001 -34"><span class='ocrx_word' id='word_1_9' title='bbox 167 3990 410 4113; x_wconf 84' lang='lat' dir='ltr'>tiam</span> <span class='ocrx_word' id='word_1_10' title='bbox 455 3980 937 4126; x_wconf 82' lang='lat' dir='ltr'><strong>produnt.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1078 3983 1482 4101; x_wconf 76' lang='lat' dir='ltr'>Difficile</span> <span class='ocrx_word' id='word_1_12' title='bbox 1516 3989 1942 4103; x_wconf 81' lang='lat' dir='ltr'>omnino</span> <span class='ocrx_word' id='word_1_13' title='bbox 1975 3988 2099 4098; x_wconf 85' lang='lat' dir='ltr'>est</span> <span class='ocrx_word' id='word_1_14' title='bbox 2138 3991 2345 4104; x_wconf 84' lang='lat' dir='ltr'>vitia</span> <span class='ocrx_word' id='word_1_15' title='bbox 2373 3990 2734 4100; x_wconf 85' lang='lat' dir='ltr'>invete-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 169 4156 2735 4243; baseline 0.015 -38"><span class='ocrx_word' id='word_1_16' title='bbox 169 4175 181 4182; x_wconf 83' lang='lat'>-</span> <span class='ocrx_word' id='word_1_17' title='bbox 636 4203 647 4211; x_wconf 85' lang='lat'><strong>.</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 2537 4156 2735 4243; x_wconf 79' lang='lat' dir='ltr'>rata</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

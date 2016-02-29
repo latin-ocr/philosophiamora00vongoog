@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./philosophiamora00vongoog_0769.png"; bbox 0 0 3671 4906; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 58 335 2741 525">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 58 335 2741 525">
+     <span class='ocr_line' id='line_1_1' title="bbox 58 335 2741 525; baseline 0.006 -51"><span class='ocrx_word' id='word_1_1' title='bbox 58 449 60 453; x_wconf 88' lang='lat'>-</span> <span class='ocrx_word' id='word_1_2' title='bbox 188 467 201 472; x_wconf 77' lang='grc'>-</span> <span class='ocrx_word' id='word_1_3' title='bbox 264 349 270 354; x_wconf 12' lang='lat' dir='ltr'>x</span> <span class='ocrx_word' id='word_1_4' title='bbox 346 347 560 481; x_wconf 54' lang='lat' dir='ltr'><em>“De</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 610 387 1094 497; x_wconf 61' lang='lat' dir='ltr'><em>Veracitatt,</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1134 384 1723 525; x_wconf 52' lang='lat' dir='ltr'><em>Tacf‘furnitate</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1747 383 1864 491; x_wconf 56' lang='grc' dir='ltr'><em>ὼ*</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1884 335 2402 490; x_wconf 53' lang='grc' dir='ltr'><em>’Πνῦαῇἱταιι</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 2566 410 2741 521; x_wconf 67' lang='lat'><em>729</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 3021 291 3304 386">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 3021 291 3304 386">
+     <span class='ocr_line' id='line_1_2' title="bbox 3021 291 3304 386; baseline 0.018 -96"><span class='ocrx_word' id='word_1_10' title='bbox 3021 325 3057 386; x_wconf 43' lang='grc' dir='ltr'>Ε</span> <span class='ocrx_word' id='word_1_11' title='bbox 3250 291 3304 363; x_wconf 85' lang='grc' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
